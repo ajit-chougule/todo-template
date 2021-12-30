@@ -5,11 +5,11 @@
 body {
   font-family: sans-serif;
   margin: 3rem;
-  background-color: #dfdfdf;
+  background-color: lightslategray;
 }
 
 h1, h2 {
-  color: #333333;
+  color: black;
 }
 
 .btn {
@@ -38,7 +38,7 @@ h1, h2 {
 }
 
 .card {
-  background-color:rgb(241, 235, 197);
+  background-color:lightcyan;
   border-radius: 4px;
   box-shadow: 0 1px 4px rgba(0, 0, 0, 0.2);
   padding: 1rem;
